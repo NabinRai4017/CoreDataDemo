@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Department" representedClassName=".Department" syncable="YES">
+        <attribute name="departmentName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="staff" toMany="YES" deletionRule="Nullify" destinationEntity="Staff" inverseName="department" inverseEntity="Staff" syncable="YES"/>
+    </entity>
+    <entity name="Staff" representedClassName=".Staff" syncable="YES">
+        <attribute name="fullName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="phoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="department" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Department" inverseName="staff" inverseEntity="Department" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Department" positionX="-45" positionY="0" width="128" height="90"/>
+        <element name="Staff" positionX="-18" positionY="27" width="128" height="105"/>
+    </elements>
+</model>
