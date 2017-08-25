@@ -3,6 +3,7 @@
 This is simple usage of core data.
 
 Create entity and its attributes as shown below:
+
 This is an entity for department and its attributes.
 ![screen shot 2017-08-25 at 12 52 30 pm](https://user-images.githubusercontent.com/28722125/29703191-393c3616-8994-11e7-9aca-0fafe7352a11.png)
 
@@ -12,7 +13,7 @@ Create relationship between department and staff.
 
 Select both entities and goto Editor and select "Create NSManagedObject Subclass" as shown below:
 ![screen shot 2017-08-25 at 12 53 52 pm](https://user-images.githubusercontent.com/28722125/29703190-3934e87a-8994-11e7-820d-adfac367a5e4.png)
-
+This creates NSManaged class for you to work with.
 
 
 #### Model
