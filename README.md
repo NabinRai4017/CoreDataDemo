@@ -3,7 +3,11 @@
 This is simple usage of core data.
 
 
-![screen shot 2017-08-25 at 12 52 30 pm](https://user-images.githubusercontent.com/28722125/29703191-393c3616-8994-11e7-9aca-0fafe7352a11.png) ![screen shot 2017-08-25 at 12 52 43 pm](https://user-images.githubusercontent.com/28722125/29703189-392fedfc-8994-11e7-8497-2e7409bec69d.png) ![screen shot 2017-08-25 at 12 53 52 pm](https://user-images.githubusercontent.com/28722125/29703190-3934e87a-8994-11e7-820d-adfac367a5e4.png)
+![screen shot 2017-08-25 at 12 52 30 pm](https://user-images.githubusercontent.com/28722125/29703191-393c3616-8994-11e7-9aca-0fafe7352a11.png)
+
+![screen shot 2017-08-25 at 12 52 43 pm](https://user-images.githubusercontent.com/28722125/29703189-392fedfc-8994-11e7-8497-2e7409bec69d.png) 
+
+![screen shot 2017-08-25 at 12 53 52 pm](https://user-images.githubusercontent.com/28722125/29703190-3934e87a-8994-11e7-820d-adfac367a5e4.png)
 
 
 
@@ -139,5 +143,4 @@ Model for staff
 
 ### This is output of this demo.
 
-
-![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/28722125/29702624-c44c7b56-8991-11e7-9589-3af26a182c7a.gif) ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/28722125/29702623-c4497b2c-8991-11e7-9873-3afa22ada9d3.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/28722125/29702623-c4497b2c-8991-11e7-9873-3afa22ada9d3.gif) ![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/28722125/29702624-c44c7b56-8991-11e7-9589-3af26a182c7a.gif) 
