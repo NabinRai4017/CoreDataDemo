@@ -9,10 +9,11 @@ This is an entity for department and its attributes.
 
 This is an entity for staff and its attributes.
 ![screen shot 2017-08-25 at 12 52 43 pm](https://user-images.githubusercontent.com/28722125/29703189-392fedfc-8994-11e7-8497-2e7409bec69d.png) 
-Create relationship between department and staff.
+Create relationship between department and staff as shown in above two pics.
 
 Select both entities and goto Editor and select "Create NSManagedObject Subclass" as shown below:
 ![screen shot 2017-08-25 at 12 53 52 pm](https://user-images.githubusercontent.com/28722125/29703190-3934e87a-8994-11e7-820d-adfac367a5e4.png)
+
 This creates NSManaged class for you to work with.
 
 
